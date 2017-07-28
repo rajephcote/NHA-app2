@@ -44,7 +44,7 @@ var app = {
         app.loadLogo();
     },
     onLoadStart: function() {
-        window.plugins.spinnerDialog.show("", mainurl, true);
+        window.plugins.spinnerDialog.hide();
     },
     onLoadStop: function() {
         // This is needed on some phones!
