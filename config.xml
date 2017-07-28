@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ch.kimhauser.cordova.kickstartwebsite" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="nha.academy.cordova.kickstartwebsite" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>National Hospitality Academy</name>
     <description>
-        A kick-start cordova application for websites
+        Access your National Hospitality Academy Training courses direct from your mobile or tablet
     </description>
     <author email="kim@kimhauser.ch" href="http://expertlms.training">
         Rob JEphcote
